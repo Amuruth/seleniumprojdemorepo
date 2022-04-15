@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.413 s <<< FAILURE! - in TestSuite
+runner.Runner.setUpClass[org.testng.TestRunner@428640fa](0)  Time elapsed: 0.328 s  <<< FAILURE!
+io.cucumber.core.gherkin.FeatureParserException: 
+Failed to parse resource at: file:///C:/Users/jjamr/eclipse-workspace/FrameworkProj/src/test/java/features/Login.feature
+(1:1): expected: #EOF, #Language, #TagLine, #FeatureLine, #Comment, #Empty, got 'Application Login'
+(3:1): expected: #EOF, #Language, #TagLine, #FeatureLine, #Comment, #Empty, got 'Scenario: Login with valid credentials'
+(4:1): expected: #EOF, #Language, #TagLine, #FeatureLine, #Comment, #Empty, got 'Given Open any Browser'
+(5:1): expected: #EOF, #Language, #TagLine, #FeatureLine, #Comment, #Empty, got 'And Naviagte to Login Page'
+(6:1): expected: #EOF, #Language, #TagLine, #FeatureLine, #Comment, #Empty, got 'When User enters username as "arun.selenium@gmail.com" and password as "Second@123" into the feilds'
+(7:1): expected: #EOF, #Language, #TagLine, #FeatureLine, #Comment, #Empty, got 'And User clicks on Login button'
+(8:1): expected: #EOF, #Language, #TagLine, #FeatureLine, #Comment, #Empty, got 'Then verify user is able to successfully login'
+

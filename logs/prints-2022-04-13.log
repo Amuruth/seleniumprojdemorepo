@@ -1,0 +1,12 @@
+2022-04-13 19:54:46 DEBUG AbstractByteBuf:64 - -Dio.netty.buffer.checkBounds: true
+2022-04-13 19:54:46 DEBUG ResourceLeakDetectorFactory:196 - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@213fe2dc
+2022-04-13 19:54:46 DEBUG Recycler:103 - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2022-04-13 19:54:46 DEBUG Recycler:104 - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+2022-04-13 19:54:46 DEBUG Recycler:105 - -Dio.netty.recycler.linkCapacity: 16
+2022-04-13 19:54:46 DEBUG Recycler:106 - -Dio.netty.recycler.ratio: 8
+2022-04-13 19:54:46 DEBUG Recycler:107 - -Dio.netty.recycler.delayedQueue.ratio: 8
+2022-04-13 19:54:49 DEBUG Brotli:38 - brotli4j not in the classpath; Brotli support will be unavailable.
+2022-04-13 19:54:49 DEBUG ThreadLocalRandom:214 - -Dio.netty.initialSeedUniquifier: 0x98bb7b60b48f9e17
+2022-04-13 19:54:49 DEBUG LoginTest:69 - Browser got lanuched
+2022-04-13 19:54:55 DEBUG LoginTest:71 - Navigated to Application URL
+2022-04-13 19:54:55 DEBUG LoginTest:29 - Clicked on my Account Dropdown
