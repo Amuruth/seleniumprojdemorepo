@@ -13,7 +13,8 @@ public class TwoTest extends Base{
 	@Test
 	public void testTwo() throws IOException, InterruptedException {
 		
-		System.out.println("We are in the test two");	
+		System.out.println("Amuruth has updated this code");
+		System.out.println("Test two");	
 		driver = initializeDriver();
 		
 		driver.get("https://www.selenium.dev/downloads/");
